@@ -9,8 +9,7 @@
 - [Data-analysis](https://github.com/Lynn-Luyp/Data-analysis): 2020年暑假期间我为转行数据分析以及自己练习python相关代码，根据网上的公开数据集自己做的数据分析项目
 - [Machine-Learning-projects](https://github.com/Lynn-Luyp/Machine-Learning-projects): 自己做的机器学习项目，部分项目已经上传到Kaggle拿到排名
 - [Assignments](https://github.com/Lynn-Luyp/Assignments): 包含2020年以来自己学的所有课程的笔记和课件，Coursera的所有证书对应的代码
-  - 包含且不限于以下内容: [Machine Learning](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Machine%20Learning), [Deep Learning](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Deep%20learning%20Specialization), [Tensorflow](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Tensorflow%20Specialization), [Excel](https://github.com/Lynn-Luyp/Assignments/tree/main/Excel), [Latex](https://github.com/Lynn-Luyp/Assignments/tree/main/Latex), [Python](https://github.com/Lynn-Luyp/Assignments/tree/main/Python), [SQL](https://github.com/Lynn-Luyp/Assignments/tree/main/SQL)
-
+  - 包含且不限于以下内容: [Excel](https://github.com/Lynn-Luyp/Assignments/tree/main/Excel), [SQL](https://github.com/Lynn-Luyp/Assignments/tree/main/SQL), [Python](https://github.com/Lynn-Luyp/Assignments/tree/main/Python), [Latex](https://github.com/Lynn-Luyp/Assignments/tree/main/Latex), [Machine Learning](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Machine%20Learning), [Deep Learning](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Deep%20learning%20Specialization), [Tensorflow](https://github.com/Lynn-Luyp/Assignments/tree/main/Coursera-Tensorflow%20Specialization)
 
 
 
