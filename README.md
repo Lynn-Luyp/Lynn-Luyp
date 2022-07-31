@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing Dota2.
 - 🌱 I’m currently learning Machine Learning, Deep learning, Convolutional neural networks and Python.
 - 💞️ I’m looking to make a balance between self-study and study at Warwick.
-- 📫 How to reach me: My email is qwertylynn@163.com
+- 📫 How to reach me: My email is qwertylynn@163.com, and my blog is [Red book](https://www.xiaohongshu.com/user/profile/599e78cf82ec396a8b13b4e4?xhsshare=WeixinSession&appuid=599e78cf82ec396a8b13b4e4&apptime=1659234389).
 
 The repositories on my home page consist of the following main section: 
 - [Assignments](https://github.com/Lynn-Luyp/Assignments): Includes notes and courseware for all the courses you have taken since 2020, codes for all Coursera certificates
